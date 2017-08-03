@@ -1,6 +1,9 @@
 # Noise
 Noise Experiments
 
+An Imgur post with some of the results.
+http://imgur.com/a/oMHfP
+
 Several months ago, I became very interested in the concept of "smooth noise" and the popular implementations such as Perlin, Simplex, and Open Simplex noise. I created this application to experiment with several aspects of noise that I had seen on the internet. The project slowly became more and more flushed out as learned about noise.
 
 Basics:
