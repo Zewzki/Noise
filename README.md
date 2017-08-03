@@ -30,3 +30,5 @@ Simplex:
 	
 Open Simplex:
 	The open source, non copyright version of Simplex. Not quite as fast, but definitly effective.
+
+Wood: This was my attempt at creating my own 2D noise algorithm. This was not at all what I intended it to look like, and I have no idea how it works. I did however like the output, so I kept it.
